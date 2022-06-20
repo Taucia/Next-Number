@@ -1,0 +1,19 @@
+.container{
+      border: none; 
+      padding: 10px;
+      border-style: none;
+      display: block;
+     margin-bottom: 20px;
+     width: 50%;
+    background-color: grey;
+  } 
+  body{
+    border: none; 
+    border-style: none;
+    display: block;
+    text-align: left;
+    background-color:grey;
+    color:purple;
+  }
+  
+  
